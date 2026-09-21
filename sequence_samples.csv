@@ -1,0 +1,9 @@
+sample_id,description,molecule_type,sequence
+seq_01,short coding-region fragment,DNA,ATGCGTACCGTTAA
+seq_02,GC-rich coding-region fragment,DNA,ATGCCGCGGCGTAA
+seq_03,AT-rich coding-region fragment,DNA,ATGAAATTTGCTTAA
+seq_04,medium mixed-composition fragment,DNA,ATGACCTGAGGCTAAC
+seq_05,short enzyme fragment,protein,MKTLLVAGAA
+seq_06,longer enzyme fragment,protein,MNNIRRVLAPGTTDVEKLAEAGVEV
+seq_07,binding-protein fragment,protein,GKKIGYSARLQELGVEVVE
+seq_08,motif-containing protein fragment,protein,MSTNPKPQRKTKRNTNRRPQDVKFPGG

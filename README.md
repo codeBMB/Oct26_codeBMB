@@ -5,7 +5,8 @@ Pre-work
 
 
 **Tentative schedule:**
-Day 1 - 10/20
+
+**Day 1 - 10/20**
 All times are Eastern
 
 1:00-1:30	Welcome and writing in markdown
@@ -24,7 +25,7 @@ All times are Eastern
 
 
 
-Day 2 - 10/27
+**Day 2 - 10/27**
 All times are Eastern
 
 1:00-1:45	Welcome back and review the homework

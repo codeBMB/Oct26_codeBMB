@@ -17,9 +17,12 @@ All times are Eastern
 2:15-4:00	Fitting initial rates data leading to fitting a Michaelis-Menten model using scipy
 
 **Intersession Office hours**
-10/22 - 2-4pm with Chris
+
+10/22 - 2-4pm with Chris [Zoom link](https://jmu-edu.zoom.us/j/88251119794)
 
 10/23 - 8:30- with Paul
+
+
 
 Day 2 - 10/27
 All times are Eastern

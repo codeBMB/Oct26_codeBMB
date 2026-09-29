@@ -10,7 +10,7 @@ A workshop for BMB faculty and fans interested in incorporating Python and codin
 
 **Pre-work:**
 
-To be bposted
+To be posted
 
 **Tentative schedule:**
 

@@ -18,15 +18,15 @@ To be bposted
 
 | Time | Topic | Notebook |
 |------------------------|------------------------|------------------------|
-| 1:00-1:30 | Welcome and writing in markdown | TBD |
-| 1:30-2:00 | Lists, arrays, and dataframes in numpy and pandas | TBD |
+| 1:00-1:30 | Welcome and writing in markdown | [Templates and Markdown](https://github.com/codeBMB/Oct26_codeBMB/blob/main/Templates_and_Markdown.ipynb) |
+| 1:30-2:00 | Lists, arrays, and dataframes in numpy and pandas |  |
 | 2:00-2:15 | Break and time for experimenting |  |
-| 2:15-4:00 | Fitting initial rates data leading to fitting a Michaelis-Menten model using scipy | [Notebook](https://github.com/codeBMB/Oct26_codeBMB/blob/main/pybmb_python_curve_fitting.ipynb) |
+| 2:15-4:00 | Fitting initial rates data leading to fitting a Michaelis-Menten model using scipy | [Fitting data with Scipy](https://github.com/codeBMB/Oct26_codeBMB/blob/main/pybmb_python_curve_fitting.ipynb) |
 
 **Intersession Office hours**
 
 | Date  | Details          | Link                                               |
-|-------|------------------|----------------------------------------------------|
+|---------------|---------------|-------------------------------------------|
 | 10/22 | 2-4pm with Chris | [Zoom link](https://jmu-edu.zoom.us/j/88251119794) |
 | 10/23 | 8:30- with Paul  |                                                    |
 
@@ -38,4 +38,4 @@ To be bposted
 | 1:45-2:00 | Break and time for experimenting     |          |
 | 2:00-3:15 | Biopython and sequence analysis      |          |
 | 3:15-3:45 | Start building your own notebook     |          |
-| 3:45-4:00 |  Q&A and wrap-up                     |          |
+| 3:45-4:00 | Q&A and wrap-up                      |          |

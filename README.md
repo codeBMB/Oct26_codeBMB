@@ -2,15 +2,24 @@
 
 A workshop for BMB faculty and fans interested in incorporating Python and coding into their classrooms and scholarship. A Zoom link will be provided to registered participants a few days before the workshop date.
 
-## Prerequisites
+**Prior knowledge recommended:** 
 
-- Register
+Complete a beginning PyBMB workshop, or online video tutorials (see table below)
+
+**Prerequisites:**
 
 - Have a Google account and a GitHub account
 
 **Pre-work:**
 
-To be posted
+Complete...
+
+**If you need help, we have pre-workshop office hours:**
+
+| Date  | Details          | Link                                               |
+|---------------|---------------|-------------------------------------------|
+| 10/16 | 12-1pm with Mike | [Zoom link](https://psu.zoom.us/j/95677062697) |
+
 
 **Tentative schedule:**
 

@@ -4,15 +4,21 @@ A workshop for BMB faculty and fans interested in incorporating Python and codin
 
 **Prior knowledge recommended:** 
 
-Complete a beginning PyBMB workshop, or online video tutorials (see table below)
+Complete a beginning PyBMB workshop, or online video tutorials below
+
+| Topic | Github Link | Youtube Link |
+|-----------------------------|-----------------------------|-----------------------------|
+| Computational Literacy, Notebooks in Github, Google Colab and Drive, Python Basics, Pandas and Plotting | [May26_codeBMB](https://github.com/codeBMB/May26_codeBMB) Notebooks 001-003 |  [May26 Workshop 1](https://www.youtube.com/watch?v=dpcCifrbqaw) |
+| Linear Regression, Using Gemini for Coding: Non-Linear Regression, Sequence Analysis | [May26_codeBMB](https://github.com/codeBMB/May26_codeBMB) Notebooks 004-007  | [May26 Workshop 2](https://www.youtube.com/watch?v=QC5sJjKShck) |
 
 **Prerequisites:**
 
-- Have a Google account and a GitHub account
+Have a Google account and a GitHub account
 
 **Pre-work:**
 
-Complete...
+Complete Colab Notebook:
+[000-string_analysis_refresher.ipynb](https://github.com/codeBMB/Oct26_codeBMB/blob/main/Pre-Workshop%20Activities/000-string_analysis_refresher.ipynb) 
 
 **If you need help, we have pre-workshop office hours:**
 

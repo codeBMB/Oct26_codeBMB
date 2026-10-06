@@ -37,7 +37,7 @@ Complete...
 | Date  | Details          | Link                                               |
 |---------------|---------------|-------------------------------------------|
 | 10/22 | 2-4pm with Chris | [Zoom link](https://jmu-edu.zoom.us/j/88251119794) |
-| 10/23 | 8:30-11:30 with Paul  | [Zoom link](https://rit.zoom.us/my/paul.craig)  |
+| 10/23 | 8:30-11:30 with Paul  | [Zoom link](https://rit.zoom.us/j/96590851123?from=addon)  |
 
 **Day 2 - 10/27** All times are Eastern
 

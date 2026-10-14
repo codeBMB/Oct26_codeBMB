@@ -18,7 +18,7 @@ Have a Google account and a GitHub account
 **Pre-work:**
 
 Complete Colab Notebook:
-[000-string_analysis_refresher.ipynb](https://github.com/codeBMB/Oct26_codeBMB/blob/main/Pre-Workshop%20Activities/000-string_analysis_refresher.ipynb) 
+[000-string_analysis_refresher.ipynb](https://github.com/codeBMB/Oct26_codeBMB/blob/main/Pre-Workshop%20Activities/000_string_analysis_refresher.ipynb) 
 
 **If you need help, we have pre-workshop office hours:**
 
@@ -33,7 +33,7 @@ Complete Colab Notebook:
 
 | Time | Topic | Notebook |
 |------------------------|------------------------|------------------------|
-| 1:00-1:30 | Welcome and writing in markdown | [Templates and Markdown](https://github.com/codeBMB/Oct26_codeBMB/blob/main/001-Templates_and_Markdown.ipynb) |
+| 1:00-1:30 | Welcome and writing in markdown | [Templates and Markdown](https://github.com/codeBMB/Oct26_codeBMB/blob/main/001_Templates_and_Markdown.ipynb) |
 | 1:30-2:00 | Lists, arrays, and dataframes in numpy and pandas | [Pandas and NumPy](https://github.com/codeBMB/Oct26_codeBMB/blob/main/002_data_numpy_pandas.ipynb) |
 | 2:00-2:15 | Break and time for experimenting |  |
 | 2:15-4:00 | Fitting initial rates data leading to fitting a Michaelis-Menten model using scipy | [Fitting data with Scipy](https://github.com/codeBMB/Oct26_codeBMB/blob/main/003-python_curve_fitting.ipynb) |

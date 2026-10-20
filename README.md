@@ -18,7 +18,7 @@ Have a Google account and a GitHub account
 **Pre-work:**
 
 Complete Colab Notebook:
-[000-string_analysis_refresher.ipynb](https://github.com/codeBMB/Oct26_codeBMB/blob/main/Pre-Workshop%20Activities/000_string_analysis_refresher.ipynb) 
+[000-string_analysis_refresher.ipynb](https://github.com/codeBMB/Oct26_codeBMB/blob/main/Pre-Workshop%20Activities/000-string_analysis_refresher.ipynb) 
 
 **If you need help, we have pre-workshop office hours:**
 

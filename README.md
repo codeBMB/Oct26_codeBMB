@@ -49,6 +49,6 @@ Complete Colab Notebook: [000-string_analysis_refresher.ipynb](https://github.co
 |-----------|--------------------------------------|----------|
 | 1:00-2:00 | Biopython and sequence analysis      |          |
 | 2:00-2:15 | Break and time for experimenting     |          |
-| 2:15-2:30 | Transition to Zoom Meeting with Breakout Rooms Welcome back and review the homework      |   https://github.com/codeBMB/Oct26_codeBMB/blob/main/004_Biopython_sequence_analysis.ipynb       |
+| 2:15-2:30 | Transition to Zoom Meeting with Breakout Rooms Welcome back and review the homework      |   [004_Biopython_sequence_analysis](https://github.com/codeBMB/Oct26_codeBMB/blob/main/004_Biopython_sequence_analysis.ipynb)      |
 | 2:30-3:45 | Start building your own notebook     |          |
 | 3:45-4:00 | Q&A and wrap-up                      |          |
